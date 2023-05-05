@@ -13,6 +13,5 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________
 ### Technical Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,html,css,bootstrap,git,gitlab,jquery,wordpress&theme=light)](https://github.com/coderaishya)
+[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,html,css,bootstrap,git,gitlab,jquery,wordpress&theme=light)](https://github.com/Aishwarya-Dhuri)
 
-_________________________________________________________________________________________________________________________________________________________________________
