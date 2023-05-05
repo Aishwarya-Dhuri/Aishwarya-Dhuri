@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there  👋,  I'm Aishwarya Dhuri :smiley:
+_________________________________________________________________________________________________________________________________________________________________________
 
-<!--
-**Aishwarya-Dhuri/Aishwarya-Dhuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Front end Development Enthusiastic 
+- 6+ yrs of Experience
+- Pursuing MBA in IT management & BSC in Computer Science Graduate
+- Expertise in Angular 6+, Javascript , Typescript, Html5, Css3, Sass, Flexbox, Bootstrap 4 & 5, Github
+- Good in UI/UX designing skills (Photoshop,Canva,Figma)
+- Also worked on Website development using Wordpress
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+_________________________________________________________________________________________________________________________________________________________________________
+### Technical Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,html,css,bootstrap,git,gitlab,jquery,wordpress&theme=light)](https://github.com/coderaishya)
+
+_________________________________________________________________________________________________________________________________________________________________________
