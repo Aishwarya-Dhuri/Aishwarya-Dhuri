@@ -13,7 +13,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________
 ### Technical Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,html,css,bootstrap,git,gitlab,jquery,wordpress&theme=light)](https://github.com/Aishwarya-Dhuri)
+[![My Skills](https://skillicons.dev/icons?i=angular,js,ts,html,css,bootstrap,git,gitlab,jquery,wordpress,ps,figma,xd&theme=light)](https://github.com/Aishwarya-Dhuri)
 
 _________________________________________________________________________________________________________________________________________________________________________
 
