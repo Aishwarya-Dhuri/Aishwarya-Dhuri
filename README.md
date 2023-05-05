@@ -15,3 +15,7 @@ ________________________________________________________________________________
 
 [![My Skills](https://skillicons.dev/icons?i=angular,js,ts,html,css,bootstrap,git,gitlab,jquery,wordpress&theme=light)](https://github.com/Aishwarya-Dhuri)
 
+_________________________________________________________________________________________________________________________________________________________________________
+
+### Connect with Me:
+[!Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://github.com/Aishwarya-Dhuri)
