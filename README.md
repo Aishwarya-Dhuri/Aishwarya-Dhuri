@@ -18,5 +18,5 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________
 
 ### Connect with Me:
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](https://github.com/Aishwarya-Dhuri)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://github.com/Aishwarya-Dhuri](https://in.linkedin.com/in/aishwarya-dhuri))
 
